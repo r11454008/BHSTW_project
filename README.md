@@ -72,7 +72,8 @@ cpac is a powerful package dedicated to rs-fMRI data that can be used by both no
 - ReHo (Regional Homogeneity)
 - Network Centrality
 - ALFF (Amplitude of Low Frequency Fluctuations) 
-- SCA（Seed-based Correlation Analysis）  
+- SCA（Seed-based Correlation Analysis）
+  
 ![CPAC Expected Output](https://github.com/r11454008/BHSTW_project/assets/130885549/08c44014-7459-4c8b-b7bb-7d7cbcd04874){:height="70%" width="70%"}
 
 ### Execute C-PAC
