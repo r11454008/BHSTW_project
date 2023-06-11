@@ -59,7 +59,7 @@ to be supplemented...
 The following contains the steps and results
 
 ### Converse IMA file to BIDS file with Docker in bash 
-- More detail in [BIDS Tutorial Series: HeuDiConv Walkthrough](https://reproducibility.stanford.edu/bids-tutorial-series-part-2a/))
+- More detail in [BIDS Tutorial Series: HeuDiConv Walkthrough](https://reproducibility.stanford.edu/bids-tutorial-series-part-2a/)
 - The output file is in [HeuDiConv_related_file](https://github.com/r11454008/BHSTW_project/tree/main/HeuDiConv_related_file)
 
 ### BIDS-Validation
