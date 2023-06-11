@@ -63,7 +63,7 @@ The following contains the steps and results
 - The output file is in [HeuDiConv_related_file](https://github.com/r11454008/BHSTW_project/tree/main/HeuDiConv_related_file)
 
 ### BIDS-Validation
-The BIDS Validator is a utility designed to validate whether neuroimaging datasets conform to the BIDS standard. In the case of the "p004" subject dataset, there is no error or warning, how lucky that is. :)
+The BIDS Validator is a utility designed to validate whether neuroimaging datasets conform to the BIDS standard. In the case of the "p004" subject dataset, there is no error or warning, how lucky that is.  : )
 ![BIDS Validatation](https://github.com/r11454008/BHSTW_project/assets/130885549/27a2b4a3-b7c7-489f-89cf-b0749a833767)
 
 ### C-PAC
