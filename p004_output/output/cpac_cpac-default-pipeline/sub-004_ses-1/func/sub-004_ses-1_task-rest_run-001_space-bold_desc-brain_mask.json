@@ -1,0 +1,44 @@
+{
+   "CpacProvenance": [
+      [
+         [
+            "bold:func_ingress",
+            "desc-preproc_bold:func_truncate"
+         ],
+         [
+            "TR:func_metadata_ingress"
+         ],
+         [
+            "tpattern:func_metadata_ingress"
+         ],
+         "desc-preproc_bold:func_slice_time",
+         "desc-preproc_bold:func_reorient"
+      ],
+      [
+         [
+            [
+               "bold:func_ingress",
+               "desc-preproc_bold:func_truncate"
+            ],
+            [
+               "TR:func_metadata_ingress"
+            ],
+            [
+               "tpattern:func_metadata_ingress"
+            ],
+            "desc-preproc_bold:func_slice_time",
+            "desc-preproc_bold:func_reorient"
+         ],
+         [
+            "bold:func_ingress"
+         ],
+         "motion-basefile:get_motion_ref_mean"
+      ],
+      "desc-preproc_bold:motion_correction_3dvolreg",
+      "space-bold_desc-brain_mask:bold_mask_afni"
+   ],
+   "Description": "Binary brain mask of the BOLD functional time-series created by AFNI 3dAutomask.",
+   "Sources": [
+      "desc-preproc_bold"
+   ]
+}

@@ -1,0 +1,181 @@
+The following nodes used excessive resources:
+---------------------------------------------
+
+cpac_sub-004_ses-1
+  .edit_func_3
+  .func_drop_trs
+      **memory_gb**
+        runtime > estimated
+        0.549888611328125 > 0.5035794871794872
+
+cpac_sub-004_ses-1
+  .ANTS_T1_to_template_symmetric_65
+  .write_composite_inv__symmetricxfm
+      **memory_gb**
+        runtime > estimated
+        1.61395263671875 > 0.5833504273504273
+
+cpac_sub-004_ses-1
+  .ANTS_T1_to_template_symmetric_65
+  .write_composite_invlinear_symmetric_xfm
+      **memory_gb**
+        runtime > estimated
+        1.5934944150390624 > 1.2969196581196583
+
+cpac_sub-004_ses-1
+  .ANTS_T1_to_template_52
+  .write_composite_inv_xfm
+      **memory_gb**
+        runtime > estimated
+        1.6056022646484376 > 0.5833504273504273
+
+cpac_sub-004_ses-1
+  .ANTS_T1_to_template_52
+  .write_composite_invlinear_xfm
+      **memory_gb**
+        runtime > estimated
+        1.5839653017578126 > 1.2969196581196583
+
+cpac_sub-004_ses-1
+  .WM_78
+  .seg_tissue_priors_template_to_T1
+  .apply_warp_seg_tissue_priors_template_to_T1
+      **memory_gb**
+        runtime > estimated
+        1.35238266015625 > 1.0084086284086284
+
+cpac_sub-004_ses-1
+  .GM_78
+  .seg_tissue_priors_template_to_T1
+  .apply_warp_seg_tissue_priors_template_to_T1
+      **memory_gb**
+        runtime > estimated
+        1.369819640625 > 1.0084086284086284
+
+cpac_sub-004_ses-1
+  .CSF_78
+  .seg_tissue_priors_template_to_T1
+  .apply_warp_seg_tissue_priors_template_to_T1
+      **memory_gb**
+        runtime > estimated
+        1.326633453125 > 1.0084086284086284
+
+cpac_sub-004_ses-1
+  .nuisance_regressors_defaultNoGSR_167
+  .VentriclesToAnat_2mm_ants
+      **memory_gb**
+        runtime > estimated
+        1.2697486875 > 1.027068376068376
+
+cpac_sub-004_ses-1
+  .nuisance_regressors_default_167
+  .VentriclesToAnat_2mm_ants
+      **memory_gb**
+        runtime > estimated
+        1.3396453857421875 > 1.027068376068376
+
+cpac_sub-004_ses-1
+  .nuisance_regressors_defaultNoGSR_167
+  .Functional_2mm_flirt
+      **memory_gb**
+        runtime > estimated
+        2.1336860654296874 > 0.9176905982905983
+
+cpac_sub-004_ses-1
+  .nuisance_regressors_defaultNoGSR_167
+  .aCompCor_DetrendPC
+      **memory_gb**
+        runtime > estimated
+        3.531715392578125 > 1.0881367521367522
+
+cpac_sub-004_ses-1
+  .nuisance_regressors_default_167
+  .Functional_2mm_flirt
+      **memory_gb**
+        runtime > estimated
+        2.2097892763671876 > 0.9176905982905983
+
+cpac_sub-004_ses-1
+  .nuisance_regressors_default_167
+  .aCompCor_DetrendPC
+      **memory_gb**
+        runtime > estimated
+        3.06078338671875 > 1.0881367521367522
+
+cpac_sub-004_ses-1
+  .warp_ts_to_sym_template_314
+  .apply_warp_warp_ts_to_sym_template_314
+      **memory_gb**
+        runtime > estimated
+        4.716754913085937 > 1.0084086284086284
+
+cpac_sub-004_ses-1
+  .warp_ts_to_sym_template_311
+  .apply_warp_warp_ts_to_sym_template_311
+      **memory_gb**
+        runtime > estimated
+        4.716808319335938 > 1.0084086284086284
+
+cpac_sub-004_ses-1
+  .warp_ts_to_T1template_210
+  .apply_warp_warp_ts_to_T1template_210
+      **memory_gb**
+        runtime > estimated
+        2.174018859375 > 1.0084086284086284
+
+cpac_sub-004_ses-1
+  .roi_timeseries_214
+  .3dROIstats
+      **memory_gb**
+        runtime > estimated
+        1.0295524599609376 > 0.9464615384615385
+
+cpac_sub-004_ses-1
+  .afni_centrality_local_functional_connectivity_density_323
+  .afni_centrality
+      **memory_gb**
+        runtime > estimated
+        1.0290412900390624 > 1.0
+
+cpac_sub-004_ses-1
+  .afni_centrality_eigenvector_centrality_323
+  .afni_centrality
+      **memory_gb**
+        runtime > estimated
+        1.0290794375 > 1.0
+
+cpac_sub-004_ses-1
+  .afni_centrality_degree_centrality_323
+  .afni_centrality
+      **memory_gb**
+        runtime > estimated
+        1.0290946962890626 > 1.0
+
+cpac_sub-004_ses-1
+  .warp_ts_to_T1template_207
+  .apply_warp_warp_ts_to_T1template_207
+      **memory_gb**
+        runtime > estimated
+        2.188323974609375 > 1.0084086284086284
+
+cpac_sub-004_ses-1
+  .roi_timeseries_213
+  .3dROIstats
+      **memory_gb**
+        runtime > estimated
+        0.9937591552734375 > 0.9464615384615385
+
+cpac_sub-004_ses-1
+  .spatial_map_timeseries_237
+  .spatial_regression
+      **memory_gb**
+        runtime > estimated
+        1.08721923828125 > 0.3542043142043142
+
+cpac_sub-004_ses-1
+  .spatial_map_timeseries_239
+  .spatial_regression
+      **memory_gb**
+        runtime > estimated
+        1.059974669921875 > 0.3542043142043142
+---------------------------------------------

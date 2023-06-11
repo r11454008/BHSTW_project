@@ -1,0 +1,2 @@
+Subject,Scan,MeanFD_Power,MeanFD_Jenkinson,rootMeanSquareFD,FDquartile(top1/4thFD),MeanDVARS
+sub-004,rest_run-001,0.0831,0.0437,0.2091,0.0928,19.9021

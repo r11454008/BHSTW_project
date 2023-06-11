@@ -1,0 +1,2 @@
+Pipeline,Cores_Per_Subject,Simultaneous_Subjects,Number_of_Subjects,Start_Time,End_Time,Elapsed_Time_(minutes),Status
+cpac-default-pipeline,1,1,1,2023-06-05_03:56:38,2023-06-05_05:53:56,117,Complete

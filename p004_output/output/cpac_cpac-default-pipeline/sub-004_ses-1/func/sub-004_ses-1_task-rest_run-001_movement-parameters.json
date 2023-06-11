@@ -1,0 +1,43 @@
+{
+   "CpacProvenance": [
+      [
+         [
+            "bold:func_ingress",
+            "desc-preproc_bold:func_truncate"
+         ],
+         [
+            "TR:func_metadata_ingress"
+         ],
+         [
+            "tpattern:func_metadata_ingress"
+         ],
+         "desc-preproc_bold:func_slice_time",
+         "desc-preproc_bold:func_reorient"
+      ],
+      [
+         [
+            [
+               "bold:func_ingress",
+               "desc-preproc_bold:func_truncate"
+            ],
+            [
+               "TR:func_metadata_ingress"
+            ],
+            [
+               "tpattern:func_metadata_ingress"
+            ],
+            "desc-preproc_bold:func_slice_time",
+            "desc-preproc_bold:func_reorient"
+         ],
+         [
+            "bold:func_ingress"
+         ],
+         "motion-basefile:get_motion_ref_mean"
+      ],
+      "movement-parameters:motion_correction_3dvolreg"
+   ],
+   "Sources": [
+      "desc-preproc_bold",
+      "motion-basefile"
+   ]
+}

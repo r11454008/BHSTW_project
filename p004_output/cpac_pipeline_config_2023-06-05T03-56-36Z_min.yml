@@ -1,0 +1,36 @@
+%YAML 1.1
+---
+# CPAC Pipeline Configuration YAML file
+# Version 1.8.4.dev
+#
+# http://fcp-indi.github.io for more info.
+#
+# Tip: This file can be edited manually with a text editor for quick modifications.
+
+FROM: default
+
+pipeline_setup: 
+
+  output_directory: 
+
+    # Directory where C-PAC should write out processed data, logs, and crash reports.
+    # - If running in a container (Singularity/Docker), you can simply set this to an arbitrary
+    #   name like '/outputs', and then map (-B/-v) your desired output directory to that label.
+    # - If running outside a container, this should be a full path to a directory.
+    path: /mnt/c/Users/USER/Desktop/Brainhack/Brainhack_final/p004_output/output
+
+  working_directory: 
+
+    # Directory where C-PAC should store temporary and intermediate files.
+    # - This directory must be saved if you wish to re-run your pipeline from where you left off (if not completed).
+    # - NOTE: As it stores all intermediate files, this directory can grow to become very
+    #   large, especially for data with a large amount of TRs.
+    # - If running in a container (Singularity/Docker), you can simply set this to an arbitrary
+    #   name like '/work', and then map (-B/-v) your desired output directory to that label.
+    # - If running outside a container, this should be a full path to a directory.
+    # - This can be written to '/tmp' if you do not intend to save your working directory.
+    path: /mnt/c/Users/USER/Desktop/Brainhack/Brainhack_final/p004_output/working
+
+  log_directory: 
+
+    path: /mnt/c/Users/USER/Desktop/Brainhack/Brainhack_final/p004_output/log
