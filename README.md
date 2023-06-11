@@ -73,7 +73,7 @@ cpac is a powerful package dedicated to rs-fMRI data that can be used by both no
 - Network Centrality
 - ALFF (Amplitude of Low Frequency Fluctuations) 
 - SCA（Seed-based Correlation Analysis）  
-![CPAC Expected Output](https://github.com/r11454008/BHSTW_project/assets/130885549/08c44014-7459-4c8b-b7bb-7d7cbcd04874)
+![CPAC Expected Output](https://github.com/r11454008/BHSTW_project/assets/130885549/08c44014-7459-4c8b-b7bb-7d7cbcd04874){:height="70%" width="70%"}
 
 ### Execute C-PAC
 I executed the following command on my local machine to run cpac using Docker for 1 subject:
