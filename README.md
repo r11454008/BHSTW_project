@@ -32,23 +32,23 @@ to be supplemented...
 - Vscode & Python - for coding and visualization
 - Bash & Docker container - for rs-fMRI preprocessing 
 - Packages: 
-- - C-PAC
-- - HeuDiConv
-- - os
-- - matplotlib
-- - seaborn
-- - nilearn
-- - plotly
-- - Nibabel
-- - scipy
-- - Pandas
+  - C-PAC
+  - HeuDiConv
+  - os
+  - matplotlib
+  - seaborn
+  - nilearn
+  - plotly
+  - Nibabel
+  - scipy
+  - Pandas
 
 ### Data
 - Data used:
-- - Full dataset: 46 subjects, include T1- and T2-weighted structural images, task-based and resting state fMRI images.
-- - Main dataset: 30 subjects, rs-MRI before performing a competitive task.
-- - Obtained from: [Pain and Somatosensory Laboratory](https://paingibms.weebly.com/), the Institute of Brain and Mind Sciences, National Taiwan University. 
-- - Status: Unpublished
+  - Full dataset: 46 subjects, include T1- and T2-weighted structural images, task-based and resting state fMRI images.
+  - Main dataset: 30 subjects, rs-MRI before performing a competitive task.
+  - Obtained from: [Pain and Somatosensory Laboratory](https://paingibms.weebly.com/), the Institute of Brain and Mind Sciences, National Taiwan University. 
+  - Status: Unpublished
 
 ### Deliverables
 - A GitHub repository: containing all the elements of the project.
