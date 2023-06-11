@@ -52,7 +52,7 @@ to be supplemented...
 - A GitHub repository: containing all the elements of the project.
 - A markdown file: for the project description.
 - A HeuDiConv related file: to customize the name, format and location of of the IMA converted BIDS file.
-- Some cpac output file: ㄔo demonstrate the functionality of cpac
+- Some cpac output file: o demonstrate the functionality of cpac
 
 
 ## Result
