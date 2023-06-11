@@ -1,4 +1,5 @@
-# Predict individual emotional changes in competitive tasks by using rs-fMRI connectivity data 
+# BrainHack School 2023
+Predict individual emotional changes in competitive tasks by using rs-fMRI connectivity data 
 
 ## Summary
 This project aims to use resting-state fMRI connectivity matrices to predict individual mood changes across multiple contexts.
