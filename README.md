@@ -89,7 +89,6 @@ PS C:\Users\USER> bash
   
 Here are some output files from C-pac:
 - [Dataset information](https://github.com/r11454008/BHSTW_project/files/11715797/cpac_individual_timing_cpac-default-pipeline.csv)
-- [Resource allocation](file:///C:/Users/USER/Desktop/Brainhack/Brainhack_final/p004_output/log/pipeline_cpac-default-pipeline/sub-004_ses-1/callback.log.html)
 - [Expected Outputs list](https://github.com/r11454008/BHSTW_project/files/11715803/sub-004_ses-1_expectedOutputs.txt)
 - The matrix of the preceding analysis (see [sub004/func](https://github.com/r11454008/BHSTW_project/tree/main/p004_output/output/cpac_cpac-default-pipeline/sub-004_ses-1/func))
 
